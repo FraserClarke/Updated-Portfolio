@@ -29,7 +29,7 @@ Portfolio webpage utilising HTML, CSS, JavaScript, jquery libraries and SASS.
 
 ## Screenshots
 
-[Example screenshot](https://raw.githubusercontent.com/FraserClarke/Updated-Portfolio/main/img/portfolioscreen.png)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Updated-Portfolio/main/img/portfolioscreen.png)
 
 ## Links
 
