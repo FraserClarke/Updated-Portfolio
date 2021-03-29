@@ -5,6 +5,7 @@
 > ## Description
 
 Portfolio webpage utilising HTML, CSS, JavaScript, jquery libraries and SASS.
+![Deployed Webpage](https://fraserclarke.github.io/Updated-Portfolio/)
 
 ## Table of contents
 
@@ -27,11 +28,11 @@ Portfolio webpage utilising HTML, CSS, JavaScript, jquery libraries and SASS.
 
 ## Screenshots
 
-![Example screenshot](![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Updated-Portfolio/main/img/portfolioscreen.png))
+[Example screenshot](https://raw.githubusercontent.com/FraserClarke/Updated-Portfolio/main/img/portfolioscreen.png))
 
 ## Links
 
-- [Github Repository]()
+- [Github Repository](https://github.com/FraserClarke/Updated-Portfolio)
 
 ## Credits
 
